@@ -1,3 +1,3 @@
 # my-first-github-repository
 This is for training purposes
-Readme.md file was just added manually
+Readme.md file was just added manually. This just got updated in github
